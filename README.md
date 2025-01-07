@@ -1,1 +1,1 @@
-[Conraid's GitHub stats](https://github-readme-stats.vercel.app/api?username=conraid))
+[![Conraid's GitHub stats](https://github-readme-stats.vercel.app/api?username=conraid)](https://github.com/anuraghazra/github-readme-stats)
