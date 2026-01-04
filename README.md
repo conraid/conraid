@@ -1,7 +1,4 @@
-
-## Main development platform
-
-My primary Git hosting platform is now **Codeberg**.
+## My primary Git hosting platform is now **Codeberg**.
 
 [https://codeberg.org/conraid](https://codeberg.org/conraid)
 
